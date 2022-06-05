@@ -1,0 +1,25 @@
+{
+  "status": true,
+  "message": "",
+  "data": [
+    {
+      "id": "1",
+      "title": "30% OFF",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/VHmCJm5/offer-0.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "30% OFF",
+          "images": [
+            "https://i.ibb.co/VHmCJm5/offer-0.png"
+          ],
+          "price": "223"
+        }
+      ]
+    }
+  ]
+}

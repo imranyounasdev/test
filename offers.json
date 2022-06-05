@@ -1,0 +1,24 @@
+{
+  "status": true,
+  "message": "",
+  "data": [
+    {
+      "id": "1",
+      "title": "30% OFF",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "image": "https://i.ibb.co/VHmCJm5/offer-0.png"
+    },
+    {
+      "id": "2",
+      "title": "70% OFF",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "image": "https://i.ibb.co/M5TRh52/offer-1.png"
+    },
+    {
+      "id": "3",
+      "title": "10% OFF",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "image": "https://i.ibb.co/pn1c0rp/offer-2.png"
+    }
+  ]
+}

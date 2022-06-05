@@ -4,6 +4,7 @@
   "data": [
     {
       "id": "1",
+      "category_id": "2",
       "title": "Apple",
       "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
       "images": [
@@ -23,6 +24,7 @@
     },
     {
       "id": "1",
+      "category_id": "2",
       "title": "Pear",
       "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
       "images": [
@@ -42,6 +44,7 @@
     },
     {
       "id": "1",
+      "category_id": "2",
       "title": "Orange",
       "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
       "images": [

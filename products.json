@@ -4,18 +4,56 @@
   "data": [
     {
       "id": "1",
-      "title": "30% OFF",
+      "title": "Apple",
       "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
       "images": [
-        "https://i.ibb.co/VHmCJm5/offer-0.png"
+        "https://i.ibb.co/nM41MTw/fruit-1.png"
       ],
       "price": "222",
       "variants": [
         {
           "id": "1",
-          "title": "30% OFF",
+          "title": "Apple 1",
           "images": [
-            "https://i.ibb.co/VHmCJm5/offer-0.png"
+            "https://i.ibb.co/nM41MTw/fruit-1.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Pear",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/YdMY2wJ/fruit-2.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "Pear 1",
+          "images": [
+            "https://i.ibb.co/YdMY2wJ/fruit-2.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Orange",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/mzMgD3T/fruit-3.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "Orange 1",
+          "images": [
+            "https://i.ibb.co/mzMgD3T/fruit-3.png"
           ],
           "price": "223"
         }

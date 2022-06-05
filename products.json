@@ -4,6 +4,7 @@
   "data": [
     {
       "id": "1",
+      "category_id": "2",
       "title": "Apple",
       "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
       "images": [
@@ -22,7 +23,8 @@
       ]
     },
     {
-      "id": "1",
+      "id": "2",
+      "category_id": "2",
       "title": "Pear",
       "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
       "images": [
@@ -41,7 +43,8 @@
       ]
     },
     {
-      "id": "1",
+      "id": "3",
+      "category_id": "2",
       "title": "Orange",
       "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
       "images": [
@@ -54,6 +57,246 @@
           "title": "Orange 1",
           "images": [
             "https://i.ibb.co/mzMgD3T/fruit-3.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "category_id": "3",
+      "title": "Tomato",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/SwGZpkc/6-tomato-png-image.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "Tomato 1",
+          "images": [
+            "https://i.ibb.co/SwGZpkc/6-tomato-png-image.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "category_id": "3",
+      "title": "carrot",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/c3yqS8X/1-carrot-png-image.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "carrot 1",
+          "images": [
+            "https://i.ibb.co/c3yqS8X/1-carrot-png-image.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "category_id": "3",
+      "title": "cabbage",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/Cm9LKPt/6-cabbage-png-image.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "cabbage 1",
+          "images": [
+            "https://i.ibb.co/Cm9LKPt/6-cabbage-png-image.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "category_id": "3",
+      "title": "potato",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/dMYMdnd/7-potato-png-images-pictures-download.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "potato 1",
+          "images": [
+            "https://i.ibb.co/dMYMdnd/7-potato-png-images-pictures-download.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "category_id": "3",
+      "title": "onion",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/yk65RTJ/8-onion-png-image.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "onion 1",
+          "images": [
+            "https://i.ibb.co/yk65RTJ/8-onion-png-image.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "category_id": "3",
+      "title": "cucumber",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/k9njcFN/11-cucumber-png-image-picture-download.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "cucumber 1",
+          "images": [
+            "https://i.ibb.co/k9njcFN/11-cucumber-png-image-picture-download.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "category_id": "3",
+      "title": "eggplant",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/jyYLnbG/14-eggplant-png-images-download.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "eggplant 1",
+          "images": [
+            "https://i.ibb.co/jyYLnbG/14-eggplant-png-images-download.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "category_id": "3",
+      "title": "corn",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/smWmxdG/23-corn-png-image.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "corn 1",
+          "images": [
+            "https://i.ibb.co/smWmxdG/23-corn-png-image.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "category_id": "3",
+      "title": "red chili pepper",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/LNf1tY0/37-red-chili-pepper-png-image.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "red chili pepper 1",
+          "images": [
+            "https://i.ibb.co/LNf1tY0/37-red-chili-pepper-png-image.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "category_id": "4",
+      "title": "corn stalk",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/rQCwbpt/pngfind-com-corn-stalk-png-2633707.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "corn stalk 1",
+          "images": [
+            "https://i.ibb.co/rQCwbpt/pngfind-com-corn-stalk-png-2633707.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "category_id": "4",
+      "title": "grain",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/n3KyRtF/pngkey-com-grain-png-1243595.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "grain 1",
+          "images": [
+            "https://i.ibb.co/n3KyRtF/pngkey-com-grain-png-1243595.png"
+          ],
+          "price": "223"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "category_id": "4",
+      "title": "Rice",
+      "description": "Enjoy the fresh and big Offers, deals\nof everyday.",
+      "images": [
+        "https://i.ibb.co/QHrTDN8/pngwing-com-2.png"
+      ],
+      "price": "222",
+      "variants": [
+        {
+          "id": "1",
+          "title": "Rice 1",
+          "images": [
+            "https://i.ibb.co/QHrTDN8/pngwing-com-2.png"
           ],
           "price": "223"
         }

@@ -16,9 +16,33 @@
           "id": "1",
           "title": "Apple 1",
           "images": [
-            "https://i.ibb.co/nM41MTw/fruit-1.png","https://i.ibb.co/d2stvzt/kindpng-671077.png","https://i.ibb.co/dKwrYfP/Large-Red-Apple-PNG-Clipart.png","https://i.ibb.co/RCYR2jd/pngfind-com-apples-png-68024.png"
+            "https://i.ibb.co/nM41MTw/fruit-1.png"
           ],
-          "price": "223"
+          "price": "300"
+        },
+        {
+          "id": "2",
+          "title": "Apple 2",
+          "images": [
+            "https://i.ibb.co/d2stvzt/kindpng-671077.png"
+          ],
+          "price": "400"
+        },
+        {
+          "id": "3",
+          "title": "Apple 3",
+          "images": [
+            "https://i.ibb.co/dKwrYfP/Large-Red-Apple-PNG-Clipart.png"
+          ],
+          "price": "500"
+        },
+        {
+          "id": "4",
+          "title": "Apple 4",
+          "images": [
+            "https://i.ibb.co/RCYR2jd/pngfind-com-apples-png-68024.png"
+          ],
+          "price": "600"
         }
       ]
     },
@@ -31,16 +55,7 @@
         "https://i.ibb.co/YdMY2wJ/fruit-2.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "Pear 1",
-          "images": [
-            "https://i.ibb.co/YdMY2wJ/fruit-2.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "3",
@@ -71,16 +86,7 @@
         "https://i.ibb.co/SwGZpkc/6-tomato-png-image.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "Tomato 1",
-          "images": [
-            "https://i.ibb.co/SwGZpkc/6-tomato-png-image.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "5",
@@ -91,16 +97,7 @@
         "https://i.ibb.co/c3yqS8X/1-carrot-png-image.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "carrot 1",
-          "images": [
-            "https://i.ibb.co/c3yqS8X/1-carrot-png-image.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "6",
@@ -111,16 +108,7 @@
         "https://i.ibb.co/Cm9LKPt/6-cabbage-png-image.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "cabbage 1",
-          "images": [
-            "https://i.ibb.co/Cm9LKPt/6-cabbage-png-image.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "7",
@@ -131,16 +119,7 @@
         "https://i.ibb.co/dMYMdnd/7-potato-png-images-pictures-download.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "potato 1",
-          "images": [
-            "https://i.ibb.co/dMYMdnd/7-potato-png-images-pictures-download.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "8",
@@ -151,16 +130,7 @@
         "https://i.ibb.co/yk65RTJ/8-onion-png-image.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "onion 1",
-          "images": [
-            "https://i.ibb.co/yk65RTJ/8-onion-png-image.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "9",
@@ -171,16 +141,7 @@
         "https://i.ibb.co/k9njcFN/11-cucumber-png-image-picture-download.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "cucumber 1",
-          "images": [
-            "https://i.ibb.co/k9njcFN/11-cucumber-png-image-picture-download.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "10",
@@ -191,16 +152,7 @@
         "https://i.ibb.co/jyYLnbG/14-eggplant-png-images-download.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "eggplant 1",
-          "images": [
-            "https://i.ibb.co/jyYLnbG/14-eggplant-png-images-download.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "11",
@@ -211,16 +163,7 @@
         "https://i.ibb.co/smWmxdG/23-corn-png-image.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "corn 1",
-          "images": [
-            "https://i.ibb.co/smWmxdG/23-corn-png-image.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "12",
@@ -231,16 +174,7 @@
         "https://i.ibb.co/LNf1tY0/37-red-chili-pepper-png-image.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "red chili pepper 1",
-          "images": [
-            "https://i.ibb.co/LNf1tY0/37-red-chili-pepper-png-image.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "13",
@@ -251,16 +185,7 @@
         "https://i.ibb.co/rQCwbpt/pngfind-com-corn-stalk-png-2633707.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "corn stalk 1",
-          "images": [
-            "https://i.ibb.co/rQCwbpt/pngfind-com-corn-stalk-png-2633707.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "14",
@@ -271,16 +196,7 @@
         "https://i.ibb.co/n3KyRtF/pngkey-com-grain-png-1243595.png"
       ],
       "price": "222",
-      "variants": [
-        {
-          "id": "1",
-          "title": "grain 1",
-          "images": [
-            "https://i.ibb.co/n3KyRtF/pngkey-com-grain-png-1243595.png"
-          ],
-          "price": "223"
-        }
-      ]
+      "variants": []
     },
     {
       "id": "15",

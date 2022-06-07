@@ -10,6 +10,7 @@
       "images": [
         "https://i.ibb.co/nM41MTw/fruit-1.png","https://i.ibb.co/d2stvzt/kindpng-671077.png","https://i.ibb.co/dKwrYfP/Large-Red-Apple-PNG-Clipart.png","https://i.ibb.co/RCYR2jd/pngfind-com-apples-png-68024.png"
       ],
+      "unit":"1KG",
       "price": "222",
       "variants": [
         {
@@ -18,7 +19,8 @@
           "images": [
             "https://i.ibb.co/nM41MTw/fruit-1.png"
           ],
-          "price": "300"
+          "price": "300",
+          "unit":"1KG"
         },
         {
           "id": "2",
@@ -26,7 +28,8 @@
           "images": [
             "https://i.ibb.co/d2stvzt/kindpng-671077.png"
           ],
-          "price": "400"
+          "price": "400",
+          "unit":"1KG"
         },
         {
           "id": "3",
@@ -34,7 +37,8 @@
           "images": [
             "https://i.ibb.co/dKwrYfP/Large-Red-Apple-PNG-Clipart.png"
           ],
-          "price": "500"
+          "price": "500",
+          "unit":"1KG"
         },
         {
           "id": "4",
@@ -42,7 +46,8 @@
           "images": [
             "https://i.ibb.co/RCYR2jd/pngfind-com-apples-png-68024.png"
           ],
-          "price": "600"
+          "price": "600",
+          "unit":"1KG"
         }
       ]
     },
@@ -55,6 +60,7 @@
         "https://i.ibb.co/YdMY2wJ/fruit-2.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -66,6 +72,7 @@
         "https://i.ibb.co/mzMgD3T/fruit-3.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": [
         {
           "id": "1",
@@ -73,7 +80,8 @@
           "images": [
             "https://i.ibb.co/mzMgD3T/fruit-3.png"
           ],
-          "price": "223"
+          "price": "223",
+          "unit":"1KG"
         }
       ]
     },
@@ -86,6 +94,7 @@
         "https://i.ibb.co/SwGZpkc/6-tomato-png-image.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -97,6 +106,7 @@
         "https://i.ibb.co/c3yqS8X/1-carrot-png-image.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -108,6 +118,7 @@
         "https://i.ibb.co/Cm9LKPt/6-cabbage-png-image.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -119,6 +130,7 @@
         "https://i.ibb.co/dMYMdnd/7-potato-png-images-pictures-download.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -130,6 +142,7 @@
         "https://i.ibb.co/yk65RTJ/8-onion-png-image.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -141,6 +154,7 @@
         "https://i.ibb.co/k9njcFN/11-cucumber-png-image-picture-download.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -152,6 +166,7 @@
         "https://i.ibb.co/jyYLnbG/14-eggplant-png-images-download.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -163,6 +178,7 @@
         "https://i.ibb.co/smWmxdG/23-corn-png-image.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -174,6 +190,7 @@
         "https://i.ibb.co/LNf1tY0/37-red-chili-pepper-png-image.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -185,6 +202,7 @@
         "https://i.ibb.co/rQCwbpt/pngfind-com-corn-stalk-png-2633707.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -196,6 +214,7 @@
         "https://i.ibb.co/n3KyRtF/pngkey-com-grain-png-1243595.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -207,6 +226,7 @@
         "https://i.ibb.co/QHrTDN8/pngwing-com-2.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": [
         {
           "id": "1",
@@ -214,7 +234,8 @@
           "images": [
             "https://i.ibb.co/QHrTDN8/pngwing-com-2.png"
           ],
-          "price": "223"
+          "price": "223",
+          "unit":"1KG"
         }
       ]
     }

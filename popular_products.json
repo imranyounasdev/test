@@ -10,6 +10,7 @@
       "images": [
         "https://i.ibb.co/nM41MTw/fruit-1.png","https://i.ibb.co/d2stvzt/kindpng-671077.png","https://i.ibb.co/dKwrYfP/Large-Red-Apple-PNG-Clipart.png","https://i.ibb.co/RCYR2jd/pngfind-com-apples-png-68024.png"
       ],
+      "unit":"1KG",
       "price": "222",
       "variants": [
         {
@@ -18,7 +19,8 @@
           "images": [
             "https://i.ibb.co/nM41MTw/fruit-1.png"
           ],
-          "price": "300"
+          "price": "300",
+          "unit":"1KG"
         },
         {
           "id": "2",
@@ -26,7 +28,8 @@
           "images": [
             "https://i.ibb.co/d2stvzt/kindpng-671077.png"
           ],
-          "price": "400"
+          "price": "400",
+          "unit":"1KG"
         },
         {
           "id": "3",
@@ -34,7 +37,8 @@
           "images": [
             "https://i.ibb.co/dKwrYfP/Large-Red-Apple-PNG-Clipart.png"
           ],
-          "price": "500"
+          "price": "500",
+          "unit":"1KG"
         },
         {
           "id": "4",
@@ -42,7 +46,8 @@
           "images": [
             "https://i.ibb.co/RCYR2jd/pngfind-com-apples-png-68024.png"
           ],
-          "price": "600"
+          "price": "600",
+          "unit":"1KG"
         }
       ]
     },
@@ -55,6 +60,7 @@
         "https://i.ibb.co/YdMY2wJ/fruit-2.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": []
     },
     {
@@ -66,6 +72,7 @@
         "https://i.ibb.co/mzMgD3T/fruit-3.png"
       ],
       "price": "222",
+      "unit":"1KG",
       "variants": [
         {
           "id": "1",
@@ -73,7 +80,8 @@
           "images": [
             "https://i.ibb.co/mzMgD3T/fruit-3.png"
           ],
-          "price": "223"
+          "price": "223",
+          "unit":"1KG"
         }
       ]
     }

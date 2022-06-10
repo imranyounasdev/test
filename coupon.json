@@ -3,8 +3,8 @@
   "message": "",
   "data": {
     "id": "4",
-    "coupon": "ABC2",
+    "coupon_code": "ABC2",
     "discount": "2",
-    "fixedAmount": true
+    "is_fixed": true
   }
 }

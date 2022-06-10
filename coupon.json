@@ -1,0 +1,10 @@
+{
+  "status": true,
+  "message": "",
+  "data": {
+    "id": "4",
+    "coupon": "ABC2",
+    "discount": "2",
+    "fixedAmount": true
+  }
+}

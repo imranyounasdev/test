@@ -1,0 +1,20 @@
+{
+  "status": true,
+  "message": "",
+  "data": [
+    {
+      "id": "1",
+      "title": "Home",
+      "latitude": "33",
+      "longitude": "73",
+      "address": "Enjoy the fresh and big Offers, deals of everyday."
+    },
+    {
+      "id": "2",
+      "title": "Office",
+      "latitude": "33",
+      "longitude": "73",
+      "address": "Enjoy the fresh and big Offers, deals of everyday."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": true,
+  "message": "",
+  "data": [
+    {
+      "id": "1",
+      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "date": "2022-04-19T09:43:05.287Z"
+    },
+    {
+      "id": "2",
+      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "date": "2022-04-19T09:43:05.287Z"
+    },
+    {
+      "id": "3",
+      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "date": "2022-04-19T09:43:05.287Z"
+    },
+    {
+      "id": "4",
+      "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "date": "2022-04-19T09:43:05.287Z"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "status": true,
+  "message": "",
+  "data": {
+    "notifications_settings": {
+      "products_notification": true,
+      "discounts_offers_notification": true,
+      "orders_notification": true
+    }
+  }
+}

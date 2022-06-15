@@ -4,7 +4,7 @@
   "data": {
     "notifications_settings": {
       "products_notification": true,
-      "discounts_offers_notification": true,
+      "discounts_offers_notification": false,
       "orders_notification": true
     }
   }
